@@ -1,0 +1,10 @@
+document.writeline("Hello, World!");
+document.writeln("This is a simple JavaScript program.");
+document.writeln("Let's learn how to write to the document.");
+document.writeln("JavaScript is fun!");
+document.writeln("You can use document.writeln to add new lines.");
+document.writeln("This is the end of the document.");
+document.writeln("Thank you for reading!");
+document.writeln("Goodbye!");
+document.writeln("Have a great day!");
+document.writeln("Remember to practice regularly.");    
